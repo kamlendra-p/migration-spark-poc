@@ -1,4 +1,4 @@
-# Large-Scale MongoDB to PostgreSQL Migration: Top 3 Approaches
+# Large-Scale MongoDB to PostgreSQL Migration: Top 2 Approaches
 
 ## Overview
 
